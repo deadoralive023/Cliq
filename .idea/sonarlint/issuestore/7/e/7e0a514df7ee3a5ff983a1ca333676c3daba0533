@@ -1,0 +1,8 @@
+
+Jsquid:S1172U",Remove this unused method parameter "event".(˜Éã8õ„‰º¤-
+Fsquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ıŸ–¹¤-
+Zsquid:UselessImportCheck"/Remove this unused import 'javafx.scene.Scene'.(Õü²8æ©´¸¤-
+¤%squid:RedundantThrowsDeclarationCheckU"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(˜Éã8õ„‰º¤-
+csquid:UselessImportCheck"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ8ß‘ê¸¤-
+Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×¬Šº¤-
+fsquid:UselessImportCheck";Remove this unused import 'javafx.scene.layout.AnchorPane'.(Ø µ8Øœ¢¸¤-

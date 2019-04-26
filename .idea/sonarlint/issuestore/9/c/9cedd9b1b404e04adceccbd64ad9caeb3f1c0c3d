@@ -1,0 +1,325 @@
+
+“"squid:ClassVariableVisibilityCheckI"YMake series_Qc1ncs a static final constant or non-public and provide accessors if needed.(Á¡Àéøÿÿÿÿ8ÉÃË¹¤-
+Jsquid:S16593"'Declare "chart_RFP" on a separate line.(“Şµ…ùÿÿÿÿ8±¿ ¶¤-
+ssquid:S00100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§„Æûÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148ı"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+ssquid:S001164"TRename this field "chart_LPI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+Rsquid:S1444L"/Make this "public static series_Kc" field final(›”Ûşÿÿÿÿ8ÉÃË¹¤-
+vsquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãèèúÿÿÿÿÿ8½ˆğ»¤-
+Usquid:S1444D"7Make this "public static series_chart_SBTn" field final(ô±¡®8ÉÃË¹¤-
+ssquid:S00100“
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Æ‘üşÿÿÿÿ8½ˆğ»¤-
+Msquid:S1444R"/Make this "public static series_SU" field final(¸Å†8½ˆğ»¤-
+Hsquid:S16594"*Declare "chart_Qc1ncs" on a separate line.(‘ûÚ8åó ¶¤-
+Usquid:S2696ì"6Make the enclosing method "static" or remove this set.(¿¼ä8½ˆğ»¤-
+vsquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶ëÀşÿÿÿÿ8½ˆğ»¤-
+qsquid:S00117 
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‘î 8½ˆğ»¤-
+Asquid:S1659©""Declare "qc1n" on a separate line.(Ó÷àı8½ˆğ»¤-
+Gsquid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Ksquid:S1481Ø	"'Remove this unused "rr" local variable.(ã¾´³şÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Msquid:S1940Û")Use the opposite operator (">=") instead.(ÚÕêïùÿÿÿÿ8½ˆğ»¤-
+Msquid:S1444F"/Make this "public static series_rd" field final(ƒÖÇ•8ÉÃË¹¤-
+Š"squid:ClassVariableVisibilityCheckR"UMake series_SU a static final constant or non-public and provide accessors if needed.(¸Å†8½ˆğ»¤-
+isquid:UselessImportCheck">Remove this unused import 'javafx.beans.value.ChangeListener'.(¸÷Í8œçÀ¼¤-
+wsquid:S3008:"TRename this field "series_qt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ŞÏéøÿÿÿÿ8ÀÊ¹¤-
+Rsquid:S1444C"/Make this "public static series_lc" field final(ƒÙ»óıÿÿÿÿ8ÉÃË¹¤-
+Zsquid:S2696¸"6Make the enclosing method "static" or remove this set.(—ÏÄüÿÿÿÿ8ãĞğ»¤-
+tsquid:S3008<"WRename this field "series_gamma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥•ü>8ÀÊ¹¤-
+Zsquid:S2696´"6Make the enclosing method "static" or remove this set.(¶ûö’úÿÿÿÿ8½ˆğ»¤-
+xsquid:S3008P"URename this field "series_LPI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÔñ²úÿÿÿÿ8ÉÃË¹¤-
+Isquid:S1659…"%Declare "p_sigma" on a separate line.(ù¶ëÀşÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148Í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Š"squid:ClassVariableVisibilityCheck@"UMake series_u0 a static final constant or non-public and provide accessors if needed.(ã­§„8ÉÃË¹¤-
+ssquid:S001164"TRename this field "chart_MSF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+Usquid:S2696ø"6Make the enclosing method "static" or remove this set.(ßÁµÛ8½ˆğ»¤-
+vsquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜœÊŸşÿÿÿÿ8À±á¹¤-
+xsquid:S3008>"URename this field "series_SBT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆéğÎüÿÿÿÿ8ÀÊ¹¤-
+"squid:ClassVariableVisibilityCheck:"UMake series_qt a static final constant or non-public and provide accessors if needed.(¿ŞÏéøÿÿÿÿ8ÀÊ¹¤-
+isquid:UselessImportCheck"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ8İÃ˜·¤-
+Esquid:S16594"'Declare "chart_MSF" on a separate line.(‘ûÚ8åó ¶¤-
+nsquid:S00100Á
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áİ©Æ8½ˆğ»¤-
+rsquid:S001164"SRename this field "chart_PI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+]squid:UselessImportCheck"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû8‹é»¼¤-
+Msquid:S1444@"/Make this "public static series_u0" field final(ã­§„8ÉÃË¹¤-
+Ssquid:S1444P"0Make this "public static series_LPI" field final(ŸÔñ²úÿÿÿÿ8ÉÃË¹¤-
+"squid:ClassVariableVisibilityCheck="XMake series_IcSBT a static final constant or non-public and provide accessors if needed.(½¼8ÀÊ¹¤-
+Usquid:S2696Ğ"6Make the enclosing method "static" or remove this set.(Ğ‡ì‹8½ˆğ»¤-
+nsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦½ã•8½ˆğ»¤-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«âŸÏÿÿÿÿÿ8½ˆğ»¤-
+fsquid:UselessImportCheck";Remove this unused import 'javafx.scene.layout.AnchorPane'.(Ø µ8Ä÷í¸¤-
+qsquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ØŸÙ8Õ¬–º¤-
+{squid:S3008J"XRename this field "series_Ksigma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÄØôşÿÿÿÿ8ÉÃË¹¤-
+"squid:ClassVariableVisibilityCheckO"UMake series_PI a static final constant or non-public and provide accessors if needed.(¸€¼³ıÿÿÿÿ8ÉÃË¹¤-
+Gsquid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+"squid:ClassVariableVisibilityCheckK"ZMake series_CSRStar a static final constant or non-public and provide accessors if needed.(ùŠÚS8ÉÃË¹¤-
+Gsquid:S1659…"#Declare "pre_m" on a separate line.(ù¶ëÀşÿÿÿÿ8½ˆğ»¤-
+ssquid:S00100‡
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê°äçÿÿÿÿÿ8½ˆğ»¤-
+Ssquid:S1444;"0Make this "public static series_RFP" field final(ó¢äãıÿÿÿÿ8ÀÊ¹¤-
+ssquid:S00100ü
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔĞ¯¥şÿÿÿÿ8½ˆğ»¤-
+qsquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºœ™‰8À±á¹¤-
+Isquid:S16593"&Declare "chart_qt" on a separate line.(“Şµ…ùÿÿÿÿ8 ã¼µ¤-
+"squid:ClassVariableVisibilityCheckG"VMake series_CSR a static final constant or non-public and provide accessors if needed.(ƒ¬¢«ÿÿÿÿÿ8ÉÃË¹¤-
+ssquid:S00100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ °ïüÿÿÿÿ8½ˆğ»¤-
+Zsquid:S2696À"6Make the enclosing method "static" or remove this set.(£¡˜êüÿÿÿÿ8½ˆğ»¤-
+vsquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµß«úÿÿÿÿ8½ˆğ»¤-
+Usquid:S2696œ"6Make the enclosing method "static" or remove this set.(–”Èç8½ˆğ»¤-
+qsquid:S30081"SRename this field "chart_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¶ö‰8ïğÅ¹¤-
+ysquid:S001164"ZRename this field "chart_fcPercent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+@squid:S1659ú"!Declare "sig" on a separate line.(Ÿãéê8½ˆğ»¤-
+Vsquid:S1197\"8Move the array designator from the variable to the type.(—õ†»8½ˆğ»¤-
+ysquid:S1488Æ
+"[Immediately return this expression instead of assigning it to the temporary variable "qtn".(¦»ˆm8½ˆğ»¤-
+‘"squid:ClassVariableVisibilityCheckE"\Make series_fcPercent a static final constant or non-public and provide accessors if needed.(¬”šÍ8ÉÃË¹¤-
+Š"squid:ClassVariableVisibilityCheckF"UMake series_rd a static final constant or non-public and provide accessors if needed.(ƒÖÇ•8ÉÃË¹¤-
+@squid:S1659„"!Declare "ch1" on a separate line.(±ÖæŠ8Õ¬–º¤-
+Usquid:S2696Ô"6Make the enclosing method "static" or remove this set.(÷…¨Û8½ˆğ»¤-
+"squid:ClassVariableVisibilityCheckL"UMake series_Kc a static final constant or non-public and provide accessors if needed.(›”Ûşÿÿÿÿ8ÉÃË¹¤-
+Isquid:S16593"&Declare "chart_fs" on a separate line.(“Şµ…ùÿÿÿÿ8 ã¼µ¤-
+nsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É–ç¡8½ˆğ»¤-
+qsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ö’8½ˆğ»¤-
+Ssquid:S1444H"0Make this "public static series_MSF" field final(ô²¨ªúÿÿÿÿ8ÉÃË¹¤-
+qsquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¿íŞ8½ˆğ»¤-
+ssquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãèèúÿÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+hsquid:S2095U"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…8½ˆğ»¤-
+‚squid:S1488¬"^Immediately return this expression instead of assigning it to the temporary variable "result".(Î½ôÊÿÿÿÿÿ8½ˆğ»¤-
+ssquid:S00100ß
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üˆ ­ÿÿÿÿÿ8½ˆğ»¤-
+nsquid:S00100™
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­³“8½ˆğ»¤-
+Usquid:S2696Ì"6Make the enclosing method "static" or remove this set.(ÿ€Ú¡8½ˆğ»¤-
+Zsquid:S2696°"6Make the enclosing method "static" or remove this set.(ğïµıÿÿÿÿ8ãĞğ»¤-
+Lsquid:S16593")Declare "chart_IcSBT" on a separate line.(“Şµ…ùÿÿÿÿ8±¿ ¶¤-
+xsquid:S3008;"URename this field "series_RFP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¢äãıÿÿÿÿ8ÀÊ¹¤-
+qsquid:S00117¦
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ëé’8½ˆğ»¤-
+Psquid:S1444?"2Make this "public static series_sigma" field final(±Â„Å8ÀÊ¹¤-
+Usquid:S2696¼"6Make the enclosing method "static" or remove this set.(Ÿı½8½ˆğ»¤-
+ssquid:S00100î
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ã‘øÿÿÿÿ8½ˆğ»¤-
+nsquid:S00100Å
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿòÕÁ8½ˆğ»¤-
+vsquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶ëÀşÿÿÿÿ8½ˆğ»¤-
+squid:S1192¯"`Define a constant instead of duplicating this literal "/edu.cliq/chartController.fxml" 28 times.(ğé8½ˆğ»¤-
+Gsquid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+rsquid:S001164"SRename this field "chart_lc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+Ssquid:S1444G"0Make this "public static series_CSR" field final(ƒ¬¢«ÿÿÿÿÿ8ÉÃË¹¤-
+rsquid:S001164"SRename this field "chart_rd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+ssquid:S00100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìº¹Æüÿÿÿÿ8½ˆğ»¤-
+vsquid:S3008A"XRename this field "series_sigma1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÉü©8ÉÃË¹¤-
+Msquid:S16593"*Declare "chart_sigma1" on a separate line.(“Şµ…ùÿÿÿÿ8±¿ ¶¤-
+Isquid:S16594"+Declare "chart_CSRStar" on a separate line.(‘ûÚ8åó ¶¤-
+xsquid:S001166"TRename this field "chart_SBT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Å¢¼ûÿÿÿÿ8ãĞğ»¤-
+Esquid:S16594"'Declare "chart_LPI" on a separate line.(‘ûÚ8åó ¶¤-
+tsquid:S001164"URename this field "chart_CSR7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+rsquid:S3008F"TRename this field "series_rd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÖÇ•8ÉÃË¹¤-
+vsquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶ëÀşÿÿÿÿ8½ˆğ»¤-
+qsquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹åïŠ8À±á¹¤-
+vsquid:S001164"WRename this field "chart_Qc1ncs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+Lsquid:S16593")Declare "chart_gamma" on a separate line.(“Şµ…ùÿÿÿÿ8ë¿³¤-
+Dsquid:S16594"&Declare "chart_FS" on a separate line.(‘ûÚ8åó ¶¤-
+"squid:ClassVariableVisibilityCheck7"UMake series_qc a static final constant or non-public and provide accessors if needed.(¢È‚«ÿÿÿÿÿ8«Ä”¹¤-
+nsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÊŒÏ8½ˆğ»¤-
+zsquid:S001163"VRename this field "chart_IcSBT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+fsquid:UselessImportCheck"<Remove this unused import 'javafx.scene.SnapshotParameters'.(ÏãÃg8äîª·¤-
+Œ"squid:ClassVariableVisibilityCheck<"XMake series_gamma a static final constant or non-public and provide accessors if needed.(¥•ü>8ÀÊ¹¤-
+_squid:UselessImportCheck$"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8åó ¶¤-
+>squid:S1659ú"Declare "b" on a separate line.(Ÿãéê8½ˆğ»¤-
+vsquid:S00117ı
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãš‡úÿÿÿÿ8½ˆğ»¤-
+vsquid:S001164"WRename this field "chart_Ksigma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+Zsquid:S2696 "6Make the enclosing method "static" or remove this set.(‰¿×üÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+nsquid:S00100¼
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÆÚ¿8½ˆğ»¤-
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+nsquid:S00100è
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©øœ8½ˆğ»¤-
+Hsquid:S16593"%Declare "chart_u" on a separate line.(“Şµ…ùÿÿÿÿ8¡¥À³¤-
+“"squid:ClassVariableVisibilityCheckJ"YMake series_Ksigma a static final constant or non-public and provide accessors if needed.(¯ÄØôşÿÿÿÿ8ÉÃË¹¤-
+Usquid:S2696È"6Make the enclosing method "static" or remove this set.(¹²Â¦8½ˆğ»¤-
+wsquid:S001163"SRename this field "chart_u0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+Gsquid:S1659Ê"#Declare "n_pre" on a separate line.(§ÅÔøÿÿÿÿ8½ˆğ»¤-
+Lsquid:S14441".Make this "public static chart_no" field final(å¶ö‰8ïğÅ¹¤-
+zsquid:S3008D"\Rename this field "series_chart_SBTn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô±¡®8ÉÃË¹¤-
+ysquid:S3008E"[Rename this field "series_fcPercent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬”šÍ8ÉÃË¹¤-
+vsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥²­úÿÿÿÿ8À±á¹¤-
+vsquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¿½œøÿÿÿÿ8À±á¹¤-
+Ksquid:S14449".Make this "public static series_u" field final(Óï–Y8ÀÊ¹¤-
+Dsquid:S16594"&Declare "chart_rd" on a separate line.(‘ûÚ8åó ¶¤-
+Zsquid:S2696"6Make the enclosing method "static" or remove this set.(¤“Ë½ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Dsquid:S16594"&Declare "chart_SU" on a separate line.(‘ûÚ8åó ¶¤-
+~squid:S1488ı	"ZImmediately return this expression instead of assigning it to the temporary variable "qt".(ùˆÙúùÿÿÿÿ8½ˆğ»¤-
+Tsquid:S2696¨"6Make the enclosing method "static" or remove this set.(Í¢Ù8½ˆğ»¤-
+rsquid:S3776§"SRefactor this method to reduce its Cognitive Complexity from 140 to the 15 allowed.(¢›š8½ˆğ»¤-
+Hsquid:S16594"*Declare "chart_Ksigma" on a separate line.(‘ûÚ8åó ¶¤-
+vsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎöÄŠúÿÿÿÿ8À±á¹¤-
+Gsquid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Dsquid:S16594"&Declare "chart_lc" on a separate line.(‘ûÚ8åó ¶¤-
+"squid:ClassVariableVisibilityCheckA"YMake series_sigma1 a static final constant or non-public and provide accessors if needed.(ÎÉü©8ÉÃË¹¤-
+fsquid:S1479‘"BReduce the number of non-empty switch cases from 31 to at most 30.(Åİ¶Ìøÿÿÿÿ8½ˆğ»¤-
+vsquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµß«úÿÿÿÿ8½ˆğ»¤-
+"squid:ClassVariableVisibilityCheck;"VMake series_RFP a static final constant or non-public and provide accessors if needed.(ó¢äãıÿÿÿÿ8ÀÊ¹¤-
+Ksquid:S1481‚"'Remove this unused "va" local variable.(‰§–ßùÿÿÿÿ8½ˆğ»¤-
+ssquid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìµß«úÿÿÿÿ8½ˆğ»¤-
+Œsquid:S1845N"iRename field "series_FS" to prevent any misunderstanding/clash with field "series_fs" defined on line 56.(¶‘ˆúÿÿÿÿ8½ˆğ»¤-
+qsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É–ç¡8½ˆğ»¤-
+Gsquid:S1148½"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ãĞğ»¤-
+ysquid:S001166"URename this field "chart_SBTn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Å¢¼ûÿÿÿÿ8ãĞğ»¤-
+Œ squid:ForLoopCounterChangedCheckï	"XRefactor the code in order to not assign to this loop counter from within the loop body.(’¤àô8½ˆğ»¤-
+Csquid:S1659…"Declare "m" on a separate line.(ù¶ëÀşÿÿÿÿ8½ˆğ»¤-
+xsquid:S3008B"URename this field "series_qtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù²‚µÿÿÿÿÿ8ÉÃË¹¤-
+Rsquid:S1444N"/Make this "public static series_FS" field final(¶‘ˆúÿÿÿÿ8ÉÃË¹¤-
+Tsquid:S1444E"6Make this "public static series_fcPercent" field final(¬”šÍ8ÉÃË¹¤-
+Usquid:S2696”"6Make the enclosing method "static" or remove this set.(Ù„… 8½ˆğ»¤-
+wsquid:S3008O"TRename this field "series_PI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸€¼³ıÿÿÿÿ8ÉÃË¹¤-
+ssquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õªåªúÿÿÿÿ8½ˆğ»¤-
+wsquid:S001163"SRename this field "chart_qt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+‰"squid:ClassVariableVisibilityCheck1"TMake chart_no a static final constant or non-public and provide accessors if needed.(å¶ö‰8ïğÅ¹¤-
+Usquid:S2696¬"6Make the enclosing method "static" or remove this set.(äÄäù8½ˆğ»¤-
+ssquid:S00100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¬ï¿ÿÿÿÿÿ8½ˆğ»¤-
+Usquid:S2696Ä"6Make the enclosing method "static" or remove this set.(Æä¥·8½ˆğ»¤-
+’"squid:ClassVariableVisibilityCheckD"]Make series_chart_SBTn a static final constant or non-public and provide accessors if needed.(ô±¡®8ÉÃË¹¤-
+\squid:UnusedPrivateMethod{"1Remove this unused private "setNodeStyle" method.(Îß¬@8úÖÍ¼¤-
+wsquid:S001164"XRename this field "chart_CSRStar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+qsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¶ÄÕ8½ˆğ»¤-
+Gsquid:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+qsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ã¢8Õ¬–º¤-
+wsquid:S3008L"TRename this field "series_Kc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›”Ûşÿÿÿÿ8ÉÃË¹¤-
+Rsquid:S1444O"/Make this "public static series_PI" field final(¸€¼³ıÿÿÿÿ8ÉÃË¹¤-
+wsquid:S001163"SRename this field "chart_qc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+vsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÚ Ìıÿÿÿÿ8À±á¹¤-
+Gsquid:S1148É"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148Å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Ssquid:S1444>"0Make this "public static series_SBT" field final(ÆéğÎüÿÿÿÿ8ÀÊ¹¤-
+Gsquid:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+vsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¥Şˆúÿÿÿÿ8½ˆğ»¤-
+ysquid:S3008M"VRename this field "series_CSR7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¯ô”úÿÿÿÿ8ÉÃË¹¤-
+vsquid:S3008K"YRename this field "series_CSRStar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŠÚS8ÉÃË¹¤-
+Bsquid:S1659ú"#Declare "depth" on a separate line.(Ÿãéê8½ˆğ»¤-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öˆŸÚüÿÿÿÿ8Õ¬–º¤-
+Gsquid:S1148é"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Asquid:S1659ú""Declare "sig1" on a separate line.(Ÿãéê8½ˆğ»¤-
+nsquid:S00100Ÿ
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íûå¶8½ˆğ»¤-
+usquid:S3008="WRename this field "series_IcSBT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¼8ÀÊ¹¤-
+ssquid:S00100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙÆ¨ùÿÿÿÿ8½ˆğ»¤-
+qsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äúîö8½ˆğ»¤-
+Fsquid:S16594"(Declare "chart_CSR7" on a separate line.(‘ûÚ8åó ¶¤-
+qsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÁÚ8À±á¹¤-
+Usquid:S2696ˆ"6Make the enclosing method "static" or remove this set.(ŒÂä8½ˆğ»¤-
+ssquid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¸¹­úÿÿÿÿ8½ˆğ»¤-
+Zsquid:S2696ô"6Make the enclosing method "static" or remove this set.(ÁÕ÷üÿÿÿÿ8½ˆğ»¤-
+bsquid:UselessImportCheck"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ8ãĞğ»¤-
+Ksquid:S16594"-Declare "chart_fcPercent" on a separate line.(‘ûÚ8åó ¶¤-
+ssquid:S00100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öæğ¢øÿÿÿÿ8½ˆğ»¤-
+rsquid:S3008@"TRename this field "series_u0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã­§„8ÉÃË¹¤-
+{squid:S3008I"XRename this field "series_Qc1ncs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¡Àéøÿÿÿÿ8ÉÃË¹¤-
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¡Šı8½ˆğ»¤-
+vsquid:S00117ï
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾™…úÿÿÿÿ8½ˆğ»¤-
+nsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÊ‡è8½ˆğ»¤-
+Fsquid:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+>squid:S1659ú"Declare "c" on a separate line.(Ÿãéê8½ˆğ»¤-
+wsquid:S30087"TRename this field "series_qc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢È‚«ÿÿÿÿÿ8«Ä”¹¤-
+ssquid:S00100ü	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îìçïøÿÿÿÿ8½ˆğ»¤-
+nsquid:S00100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äúîö8½ˆğ»¤-
+"squid:ClassVariableVisibilityCheckC"UMake series_lc a static final constant or non-public and provide accessors if needed.(ƒÙ»óıÿÿÿÿ8ÉÃË¹¤-
+Vsquid:S1444J"3Make this "public static series_Ksigma" field final(¯ÄØôşÿÿÿÿ8ÉÃË¹¤-
+Gsquid:S1148İ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+"squid:ClassVariableVisibilityCheckN"UMake series_FS a static final constant or non-public and provide accessors if needed.(¶‘ˆúÿÿÿÿ8ÉÃË¹¤-
+‹"squid:ClassVariableVisibilityCheckQ"WMake series_LPI1 a static final constant or non-public and provide accessors if needed.(•Ü¡k8ÉÃË¹¤-
+Zsquid:S2696ü"6Make the enclosing method "static" or remove this set.(´À€ şÿÿÿÿ8½ˆğ»¤-
+Rsquid:S14447"/Make this "public static series_qc" field final(¢È‚«ÿÿÿÿÿ8«Ä”¹¤-
+Gsquid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ãĞğ»¤-
+Fsquid:S16594"(Declare "chart_LPI1" on a separate line.(‘ûÚ8åó ¶¤-
+wsquid:S3008N"TRename this field "series_FS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‘ˆúÿÿÿÿ8ÉÃË¹¤-
+Esquid:S16594"'Declare "chart_CSR" on a separate line.(‘ûÚ8åó ¶¤-
+Zsquid:S2696Œ"6Make the enclosing method "static" or remove this set.(çˆÒşÿÿÿÿ8½ˆğ»¤-
+Psquid:S1444="2Make this "public static series_IcSBT" field final(½¼8ÀÊ¹¤-
+Jsquid:S16593"'Declare "chart_qtn" on a separate line.(“Şµ…ùÿÿÿÿ8œÕ¦³¤-
+wsquid:S30088"TRename this field "series_fs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¢—äøÿÿÿÿ8â÷É¹¤-
+vsquid:S00117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÅÔøÿÿÿÿ8½ˆğ»¤-
+jsquid:UselessImportCheck"?Remove this unused import 'javafx.beans.value.ObservableValue'.(´œ«Å8œçÀ¼¤-
+Gsquid:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Nsquid:S1444Q"1Make this "public static series_LPI1" field final(•Ü¡k8ÉÃË¹¤-
+Osquid:S1444<"2Make this "public static series_gamma" field final(¥•ü>8ÀÊ¹¤-
+Ssquid:S1444B"0Make this "public static series_qtn" field final(ù²‚µÿÿÿÿÿ8ÉÃË¹¤-
+Usquid:S2696ä"6Make the enclosing method "static" or remove this set.(îÑˆ¢8½ˆğ»¤-
+wsquid:S001163"SRename this field "chart_fs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+"squid:ClassVariableVisibilityCheckP"VMake series_LPI a static final constant or non-public and provide accessors if needed.(ŸÔñ²úÿÿÿÿ8ÉÃË¹¤-
+Qsquid:S1444K"4Make this "public static series_CSRStar" field final(ùŠÚS8ÉÃË¹¤-
+ˆ"squid:ClassVariableVisibilityCheck9"TMake series_u a static final constant or non-public and provide accessors if needed.(Óï–Y8ÀÊ¹¤-
+xsquid:S001163"TRename this field "chart_qtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+rsquid:S3008R"TRename this field "series_SU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Å†8½ˆğ»¤-
+psquid:S30089"SRename this field "series_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óï–Y8ÀÊ¹¤-
+ssquid:S001164"TRename this field "chart_CSR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+Gsquid:S1148Ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Isquid:S16593"&Declare "chart_u0" on a separate line.(“Şµ…ùÿÿÿÿ8œÕ¦³¤-
+vsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(ØÙÆ¨ùÿÿÿÿ8½ˆğ»¤-
+ssquid:S00100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ©âçÿÿÿÿÿ8½ˆğ»¤-
+vsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÙåƒúÿÿÿÿ8À±á¹¤-
+Qsquid:S1444A"3Make this "public static series_sigma1" field final(ÎÉü©8ÉÃË¹¤-
+zsquid:S001163"VRename this field "chart_sigma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+nsquid:S00100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢›š8½ˆğ»¤-
+Hsquid:S1940š	")Use the opposite operator (">=") instead.(…°çı8½ˆğ»¤-
+Tsquid:S2696¤"6Make the enclosing method "static" or remove this set.(”ú;8½ˆğ»¤-
+xsquid:S3008G"URename this field "series_CSR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¬¢«ÿÿÿÿÿ8ÉÃË¹¤-
+Rsquid:S14448"/Make this "public static series_fs" field final(°¢—äøÿÿÿÿ8â÷É¹¤-
+usquid:S3008?"WRename this field "series_sigma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Â„Å8ÀÊ¹¤-
+Rsquid:S1444:"/Make this "public static series_qt" field final(¿ŞÏéøÿÿÿÿ8ÀÊ¹¤-
+wsquid:S3008C"TRename this field "series_lc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÙ»óıÿÿÿÿ8ÉÃË¹¤-
+Zsquid:S2696€"6Make the enclosing method "static" or remove this set.(“ò’Úıÿÿÿÿ8½ˆğ»¤-
+Lsquid:S16593")Declare "chart_sigma" on a separate line.(“Şµ…ùÿÿÿÿ8±¿ ¶¤-
+xsquid:S3008H"URename this field "series_MSF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô²¨ªúÿÿÿÿ8ÉÃË¹¤-
+"squid:ClassVariableVisibilityCheckB"VMake series_qtn a static final constant or non-public and provide accessors if needed.(ù²‚µÿÿÿÿÿ8ÉÃË¹¤-
+ssquid:S3008Q"VRename this field "series_LPI1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ü¡k8ÉÃË¹¤-
+rsquid:S001164"SRename this field "chart_FS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+tsquid:S001164"URename this field "chart_LPI1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+"squid:ClassVariableVisibilityCheckH"VMake series_MSF a static final constant or non-public and provide accessors if needed.(ô²¨ªúÿÿÿÿ8ÉÃË¹¤-
+nsquid:S00100¦
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ëé’8½ˆğ»¤-
+Zsquid:S2696à"6Make the enclosing method "static" or remove this set.(ä€Ÿ£ÿÿÿÿÿ8½ˆğ»¤-
+"squid:ClassVariableVisibilityCheck?"XMake series_sigma a static final constant or non-public and provide accessors if needed.(±Â„Å8ÀÊ¹¤-
+"squid:ClassVariableVisibilityCheck>"VMake series_SBT a static final constant or non-public and provide accessors if needed.(ÆéğÎüÿÿÿÿ8ÀÊ¹¤-
+‘"squid:ClassVariableVisibilityCheckM"WMake series_CSR7 a static final constant or non-public and provide accessors if needed.(ô¯ô”úÿÿÿÿ8ÉÃË¹¤-
+vsquid:S001163"RRename this field "chart_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+xsquid:S001163"TRename this field "chart_RFP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+{squid:S001163"WRename this field "chart_sigma1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+qsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¢8½ˆğ»¤-
+Gsquid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Gsquid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+rsquid:S001164"SRename this field "chart_SU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+rsquid:S001164"SRename this field "chart_Kc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûÚ8ä°²¸¤-
+Gsquid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ˆğ»¤-
+Tsquid:S1444M"1Make this "public static series_CSR7" field final(ô¯ô”úÿÿÿÿ8ÉÃË¹¤-
+"squid:ClassVariableVisibilityCheck8"UMake series_fs a static final constant or non-public and provide accessors if needed.(°¢—äøÿÿÿÿ8â÷É¹¤-
+Dsquid:S16594"&Declare "chart_PI" on a separate line.(‘ûÚ8åó ¶¤-
+Usquid:S2696Ø"6Make the enclosing method "static" or remove this set.(“™¥8½ˆğ»¤-
+Fsquid:S1481±"'Remove this unused "KC" local variable.(È¶ÄÕ8½ˆğ»¤-
+nsquid:S00100É
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š…›§8½ˆğ»¤-
+…squid:S18454"gRename field "chart_FS" to prevent any misunderstanding/clash with field "chart_fs" defined on line 51.(‘ûÚ8åó ¶¤-
+hsquid:UselessImportCheck"=Remove this unused import 'javafx.scene.image.WritableImage'.(ïçŸ¯8‹é»¼¤-
+Zsquid:S2696è"6Make the enclosing method "static" or remove this set.(ÎÔßıÿÿÿÿ8½ˆğ»¤-
+Ksquid:S16596"(Declare "chart_SBTn" on a separate line.(¨Å¢¼ûÿÿÿÿ8ãĞğ»¤-
+zsquid:S001163"VRename this field "chart_gamma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Şµ…ùÿÿÿÿ8ä°²¸¤-
+vsquid:S00117é
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª“”Ìúÿÿÿÿ8½ˆğ»¤-
+Dsquid:S16594"&Declare "chart_Kc" on a separate line.(‘ûÚ8åó ¶¤-
+Vsquid:S1444I"3Make this "public static series_Qc1ncs" field final(Á¡Àéøÿÿÿÿ8ÉÃË¹¤-

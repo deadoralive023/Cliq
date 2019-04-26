@@ -1,0 +1,8 @@
+
+"squid:SwitchLastCaseIsDefaultChecké"YComplete cases by adding the missing enum constants or add a default case to this switch.(‰èØ8í——·¤-
+usquid:S37763"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ê´¬ßøÿÿÿÿ8í——·¤-
+Zsquid:UselessImportCheck"/Remove this unused import 'java.nio.IntBuffer'.(Â†›’8í——·¤-
+[squid:S1197Z"8Move the array designator from the variable to the type.(Ûºñúüÿÿÿÿ8í——·¤-
+\squid:S1197‹"8Move the array designator from the variable to the type.(Ûºñúüÿÿÿÿ8í——·¤-
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(úøÈ8í——·¤-
+Vsquid:S1197J"8Move the array designator from the variable to the type.(Œ»Ğ¨8í——·¤-

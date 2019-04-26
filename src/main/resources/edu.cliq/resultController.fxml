@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="806.0" prefWidth="1084.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.cliq.ResultController">
+   <children>
+      <VBox layoutY="29.0" prefHeight="778.0" prefWidth="1083.0">
+         <children>
+            <TableView fx:id="tableView" prefHeight="484.0" prefWidth="1083.0" />
+            <HBox prefHeight="325.0" prefWidth="1083.0">
+               <children>
+                  <ScrollPane prefHeight="324.0" prefWidth="1082.0">
+                     <content>
+                        <HBox prefHeight="322.0" prefWidth="8000.0">
+                           <children>
+                              <LineChart fx:id="chart_qc" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="qc" titleSide="LEFT">
+                                <xAxis>
+                                  <CategoryAxis side="BOTTOM" />
+                                </xAxis>
+                                <yAxis>
+                                  <NumberAxis side="LEFT" />
+                                </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_fs" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="fs" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_u" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="u" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_qt" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="qt" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_RFP" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="RF(%)" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_gamma" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="γ" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_IcSBT" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="Ic SBT" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <BarChart fx:id="chart_SBT" rotate="90.0" title="SBT" titleSide="LEFT">
+                                <xAxis>
+                                  <CategoryAxis side="BOTTOM" />
+                                </xAxis>
+                                <yAxis>
+                                  <NumberAxis side="LEFT" />
+                                </yAxis>
+                              </BarChart>
+                              <LineChart fx:id="chart_sigma" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="σ" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_u0" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="u0" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_sigma1" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="σ'" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_qtn" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="Qtn" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_lc" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="Ic" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <BarChart fx:id="chart_SBTn" rotate="90.0" title="SBTn" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </BarChart>
+                              <LineChart fx:id="chart_fcPercent" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="fc(%)" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_rd" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="rd" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_CSR" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="CSR" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_MSF" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="MSF" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_Qc1ncs" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="Qc1ncs" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_Ksigma" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="Kσ" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_CSRStar" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="CSR*" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_Kc" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="Kc" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_CSR7" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="CSR7.5" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_FS" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="FS" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_PI" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="PI" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_LPI" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="LPI" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_LPI1" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="LPI" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                              <LineChart fx:id="chart_SU" createSymbols="false" prefHeight="320.0" prefWidth="329.0" rotate="90.0" title="SU" titleSide="LEFT">
+                                 <xAxis>
+                                    <CategoryAxis side="BOTTOM" />
+                                 </xAxis>
+                                 <yAxis>
+                                    <NumberAxis side="LEFT" />
+                                 </yAxis>
+                              </LineChart>
+                           </children>
+                        </HBox>
+                     </content>
+                  </ScrollPane>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <MenuBar prefHeight="29.0" prefWidth="1084.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem fx:id="export" mnemonicParsing="false" text="Export Sheet" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Delete" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>

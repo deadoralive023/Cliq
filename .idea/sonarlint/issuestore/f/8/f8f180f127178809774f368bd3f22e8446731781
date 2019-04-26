@@ -1,0 +1,104 @@
+
+Jsquid:S1444;",Make this "public static method" field final(—ÄëË8Õœ®¤-
+…"squid:ClassVariableVisibilityCheck9"PMake data a static final constant or non-public and provide accessors if needed.(¹·™Â8ˆùë”¤-
+Usquid:S2696æ"6Make the enclosing method "static" or remove this set.(„†°8¸âÊ”¤-
+Ssquid:S2696^"6Make the enclosing method "static" or remove this set.( ÉŸ88¿‡Ãó£-
+_squid:S2130Ù";Use "Float.parseFloat" for this string-to-float conversion.(…Şš¼üÿÿÿÿ8ºØé­¤-
+Jsquid:S1172N",Remove this unused method parameter "event".(È¸Ğõ8ä°ó£-
+Zsquid:S2696Ö"6Make the enclosing method "static" or remove this set.(÷´î§şÿÿÿÿ8ºØé­¤-
+Zsquid:S2130Ó";Use "Float.parseFloat" for this string-to-float conversion.(´éñµ8ºØé­¤-
+?squid:S1659:"!Declare "pga" on a separate line.(íÖœ8¶Ó­¤-
+rsquid:S00100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ò£Ûÿÿÿÿÿ8äÒÑŞ£-
+Esquid:S1444:"'Make this "public static m" field final(íÖœ8ùßÊ­¤-
+[squid:S11975"8Move the array designator from the variable to the type.(¦¸’ùÿÿÿÿ8áƒë£-
+‚"squid:ClassVariableVisibilityCheck9"MMake d a static final constant or non-public and provide accessors if needed.(¹·™Â8¥ğ¾¤-
+ysquid:UselessImportCheck"IRemove this unused import 'javafx.scene.control.cell.TextFieldTableCell'.(¦’âÄùÿÿÿÿ8êò¬ò£-
+gsquid:HiddenFieldCheck‘"8Rename "rows" which hides the field declared at line 52.(´İœüÿÿÿÿ8Ú×¸”¤-
+…"squid:ClassVariableVisibilityCheck4"PMake rows a static final constant or non-public and provide accessors if needed.(î•ì¦8Ú×¸”¤-
+jsquid:S2095’"FUse try-with-resources or close this "Workbook" in a "finally" clause.(›œ»Ôıÿÿÿÿ8Áä°ò£-
+Esquid:S1481˜"&Remove this unused "c" local variable.(„úª²8êò¬ò£-
+vsquid:UselessImportCheck"KRemove this unused import 'javafx.scene.control.cell.PropertyValueFactory'.(àÎ¬õ8ªûñ£-
+Lsquid:S1444:".Make this "public static coneArea" field final(íÖœ8²Ù—¤-
+Vsquid:S11976"8Move the array designator from the variable to the type.(Ñü’8áƒë£-
+Tsquid:S2696R"6Make the enclosing method "static" or remove this set.(‰ÿá¸8ç¡Áó£-
+Zsquid:S2696ã"6Make the enclosing method "static" or remove this set.(êîÛ üÿÿÿÿ8¸âÊ”¤-
+Usquid:S2696á"6Make the enclosing method "static" or remove this set.(ëØ í8İß®¤-
+†"squid:ClassVariableVisibilityCheck9"QMake depth a static final constant or non-public and provide accessors if needed.(¹·™Â8ˆùë”¤-
+‚"squid:ClassVariableVisibilityCheck:"MMake m a static final constant or non-public and provide accessors if needed.(íÖœ8ùßÊ­¤-
+Esquid:S14449"'Make this "public static u" field final(¹·™Â8ˆùë”¤-
+‚"squid:ClassVariableVisibilityCheck9"MMake u a static final constant or non-public and provide accessors if needed.(¹·™Â8ˆùë”¤-
+Zsquid:S2696Ù"6Make the enclosing method "static" or remove this set.(…Şš¼üÿÿÿÿ8ºØé­¤-
+=squid:S2386q"Make member "rows" "protected".(Ğ‹†Ù8Ú×¸”¤-
+wsquid:UselessImportCheck"GRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFWorkbook'.(Œ¦ƒëşÿÿÿÿ8÷íÛê£-
+Zsquid:S2696ä"6Make the enclosing method "static" or remove this set.(©¸ÿøÿÿÿÿ8¸âÊ”¤-
+„"squid:ClassVariableVisibilityCheck:"OMake nkt a static final constant or non-public and provide accessors if needed.(íÖœ8·Ä °¤-
+Gsquid:S1148ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÊË‚õ£-
+=squid:S16599"Declare "d" on a separate line.(¹·™Â8¥ğ¾¤-
+ysquid:S001152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ë€¦8œê¨™¤-
+Gsquid:S1444:")Make this "public static nkt" field final(íÖœ8·Ä °¤-
+hsquid:UselessImportCheck"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8ÓÅìó£-
+`squid:UselessImportCheck#"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8À‡ğ£-
+‰"squid:ClassVariableVisibilityCheck:"TMake coneArea a static final constant or non-public and provide accessors if needed.(íÖœ8²Ù—¤-
+^squid:HiddenFieldCheckz"5Rename "m" which hides the field declared at line 58.(«óóÂ8ùßÊ­¤-
+Osquid:S1602I",Remove useless curly braces around statement(ÆË¥úÿÿÿÿ8øò±ó£-
+~squid:S001161"ZRename this field "textField_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÂ¨°øÿÿÿÿ8ÇµÜô£-
+Gsquid:S1444:")Make this "public static pga" field final(íÖœ8¶Ó­¤-
+Asquid:S16599"#Declare "depth" on a separate line.(¹·™Â8şÍİô£-
+`squid:UselessImportCheck"5Remove this unused import 'javafx.scene.image.Image'.(‰¿½Ç8Şµä´¤-
+ƒ"squid:ClassVariableVisibilityCheck9"NMake fs a static final constant or non-public and provide accessors if needed.(¹·™Â8ˆùë”¤-
+Osquid:S1612I",Replace this lambda with a method reference.(ÆË¥úÿÿÿÿ8øò±ó£-
+Ysquid:S2130ß";Use "Float.parseFloat" for this string-to-float conversion.(†”;8ı¾¤-
+Hsquid:S14449"*Make this "public static data" field final(¹·™Â8ˆùë”¤-
+vsquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÖŠ´Äúÿÿÿÿ8›Š¡°¤-
+zsquid:S001161"VRename this field "textField_u" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÂ¨°øÿÿÿÿ8Àò¶ó£-
+‡"squid:ClassVariableVisibilityCheck;"RMake method a static final constant or non-public and provide accessors if needed.(—ÄëË8Õœ®¤-
+ssquid:UselessImportCheck"HRemove this unused import 'javafx.beans.property.ReadOnlyObjectWrapper'.(°ê°8Ïšñ£-
+Usquid:S2696Ó"6Make the enclosing method "static" or remove this set.(´éñµ8ºØé­¤-
+„"squid:ClassVariableVisibilityCheck:"OMake pga a static final constant or non-public and provide accessors if needed.(íÖœ8¶Ó­¤-
+Fsquid:S14449"(Make this "public static fs" field final(¹·™Â8ˆùë”¤-
+{squid:S001161"WRename this field "textField_fs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÂ¨°øÿÿÿÿ8“¶ó£-
+_squid:S2130Ü";Use "Float.parseFloat" for this string-to-float conversion.(ùûüµıÿÿÿÿ8›Š¡°¤-
+Tsquid:S2696q"6Make the enclosing method "static" or remove this set.(Ğ‹†Ù8Ú×¸”¤-
+wsquid:UselessImportCheck"GRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFWorkbook'.(¾§—Œıÿÿÿÿ8ä“Æò£-
+=squid:S16599"Declare "u" on a separate line.(¹·™Â8†Ú¾ó£-
+Vsquid:S1197O"8Move the array designator from the variable to the type.(±øÅŸ8Ø–ˆô£-
+psquid:S1192@"MUse already-defined constant 'method1' instead of duplicating its value here.(ÍûŞÑúÿÿÿÿ8œê¨™¤-
+Osquid:S16591",Declare "textField_data" on a separate line.(ÿÂ¨°øÿÿÿÿ8ªÆ·ó£-
+@squid:S16599""Declare "data" on a separate line.(¹·™Â8†Ú¾ó£-
+ƒ"squid:ClassVariableVisibilityCheck9"NMake qc a static final constant or non-public and provide accessors if needed.(¹·™Â8ˆùë”¤-
+>squid:S16599" Declare "fs" on a separate line.(¹·™Â8†Ú¾ó£-
+Msquid:S16591"*Declare "textField_fs" on a separate line.(ÿÂ¨°øÿÿÿÿ8“¶ó£-
+=squid:S1659:"Declare "m" on a separate line.(íÖœ8ùßÊ­¤-
+Fsquid:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¤¹ÕŞ£-
+\
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(²şòªıÿÿÿÿ8ÊË‚õ£-
+Zsquid:S2696å"6Make the enclosing method "static" or remove this set.(ïÜËœşÿÿÿÿ8¸âÊ”¤-
+wsquid:S1192Q"YDefine a constant instead of duplicating this literal "\\d{0,7}([\\.]\\d{0,4})?" 5 times.(²ëÍ›8 ø¹ó£-
+Tsquid:S2696ß"6Make the enclosing method "static" or remove this set.(†”;8ı¾¤-
+Esquid:S1481—"&Remove this unused "i" local variable.(¿Åå8£¯ò£-
+Csquid:S16592"%Declare "method2" on a separate line.(¡ë€¦8Îİ¬ô£-
+Psquid:S1602ø",Remove useless curly braces around statement(éô­µøÿÿÿÿ8ÊË‚õ£-
+Psquid:S16591"-Declare "textField_depth" on a separate line.(ÿÂ¨°øÿÿÿÿ8ÇµÜô£-
+?squid:S1659:"!Declare "nkt" on a separate line.(íÖœ8·Ä °¤-
+isquid:UselessImportCheck"9Remove this unused import 'javafx.scene.image.ImageView'.(áÿ®Ãüÿÿÿÿ8Şµä´¤-
+Lsquid:S16591")Declare "textField_u" on a separate line.(ÿÂ¨°øÿÿÿÿ8Àò¶ó£-
+Ysquid:S2696V"6Make the enclosing method "static" or remove this set.(¿º”Šùÿÿÿÿ8ç¡Áó£-
+Ysquid:S2696Z"6Make the enclosing method "static" or remove this set.(Øøàüÿÿÿÿ8¿‡Ãó£-
+Tsquid:S2696â"6Make the enclosing method "static" or remove this set.(Œ‹¤b8–½Ç”¤-
+Vsquid:S1481“"2Remove this unused "sheetIterator" local variable.(¢åıŠüÿÿÿÿ8´º§ò£-
+tsquid:UselessImportCheck"DRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFSheet'.(¡ÏŸ®úÿÿÿÿ8Ö°Üê£-
+_squid:UselessImportCheck""4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8À‡ğ£-
+ssquid:S00100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖŠ´Äúÿÿÿÿ8ÓËÓó£-
+Fsquid:S14449"(Make this "public static qc" field final(¹·™Â8ˆùë”¤-
+Isquid:S14449"+Make this "public static depth" field final(¹·™Â8ˆùë”¤-
+Tsquid:S2696b"6Make the enclosing method "static" or remove this set.(ÇÎà²8¤íÜô£-
+Zsquid:S2696Ü"6Make the enclosing method "static" or remove this set.(ùûüµıÿÿÿÿ8›Š¡°¤-
+Ysquid:UselessImportCheck".Remove this unused import 'javafx.scene.Node'.(ÑÖ¬ï8Üù§”¤-
+Esquid:S14449"'Make this "public static d" field final(¹·™Â8¥ğ¾¤-
+_squid:S2130Ö";Use "Float.parseFloat" for this string-to-float conversion.(÷´î§şÿÿÿÿ8ºØé­¤-
+osquid:UselessImportCheck"DRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFSheet'.(®…óŸ8ä“Æò£-
+{squid:S001161"WRename this field "textField_qc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÂ¨°øÿÿÿÿ8“¶ó£-
+ysquid:S001152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ë€¦8œê¨™¤-
+ksquid:S1192A"MUse already-defined constant 'method2' instead of duplicating its value here.(££ª 8œê¨™¤-
+Hsquid:S14444"*Make this "public static rows" field final(î•ì¦8Ú×¸”¤-
+}squid:S001161"YRename this field "textField_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÂ¨°øÿÿÿÿ8ªÆ·ó£-
